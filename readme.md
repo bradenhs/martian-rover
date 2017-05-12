@@ -1,6 +1,7 @@
 ## Martian Rover Coding Challenge
 
 [![Travis](https://img.shields.io/travis/bradenhs/martian-rover.svg)]()
+[![Coveralls](https://img.shields.io/coveralls/bradenhs/martian-rover.svg)]()
 
 View this project live at [martian-rover.netlify.com](http://martian-rover.netlify.com).
 
