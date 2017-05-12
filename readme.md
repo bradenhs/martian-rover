@@ -27,7 +27,7 @@ Run the automated test suite with:
 
 **Future Work**
 
-I spent around 4 hours on this project. If I were to give it some more time these are some items I
+I spent around 4 1/2 hours on this project. If I were to give it some more time these are some items I
 might take a look at:
 
 - Fill out the test suite. Right now just a few tests were implemented and the code coverage is
