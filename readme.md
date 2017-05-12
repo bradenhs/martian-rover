@@ -1,6 +1,6 @@
 ## Martian Rover Coding Challenge
 
-View this project live at [martian-rover.bradenhs.com](https://martian-rover.bradenhs.com).
+View this project live at [martian-rover.netlify.com](http://martian-rover.netlify.com).
 
 **Getting Started**
 
